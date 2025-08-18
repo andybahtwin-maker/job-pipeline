@@ -31,3 +31,4 @@ jobs:
           git add output/*.csv || true
           git commit -m "Update jobs $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "No changes"
           git push
+
