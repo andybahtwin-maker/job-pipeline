@@ -1,7 +1,7 @@
 
 import httpx
 from datetime import datetime
-from ..normalize import Job 
+from ..normalize import Job
 
 API = "https://remoteok.com/api"  # public JSON feed
 
