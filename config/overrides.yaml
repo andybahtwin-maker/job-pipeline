@@ -1,0 +1,25 @@
+# Company/domain matching helpers used by email linker and UID inference.
+# You can add lines like:
+#   aliases:
+#     mongodb: [ "mongo db", "mongo-db", "mongodb inc" ]
+#   domains:
+#     mongodb: [ "mongodb.com", "greenhouse.io" ]
+aliases:
+  mongodb:   ["mongo db","mongo-db","mongodb inc"]
+  datadog:   ["data dog","datadog inc"]
+  figma:     ["figma inc"]
+  stripe:    ["stripe inc"]
+  snowflake: ["snowflake inc","snowflake computing"]
+  twilio:    ["twilio inc"]
+  okta:      ["okta inc","auth0"]
+  google:    ["google llc","alphabet"]
+  microsoft: ["msft","microsoft corp"]
+  amazon:    ["aws","amazon web services"]
+domains:
+  mongodb:   ["mongodb.com","greenhouse.io"]
+  datadog:   ["datadoghq.com","greenhouse.io"]
+  figma:     ["figma.com","greenhouse.io"]
+  stripe:    ["stripe.com","greenhouse.io"]
+  snowflake: ["snowflake.com","greenhouse.io"]
+  twilio:    ["twilio.com","greenhouse.io"]
+  okta:      ["okta.com","greenhouse.io","auth0.com"]

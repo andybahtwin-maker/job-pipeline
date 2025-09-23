@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ENVFILE="$ROOT/.env"
+VENV="$ROOT/.venv-applypilot"
+LOGDIR="$ROOT/logs"
+OUT="$ROOT/outputs"
+mkdir -p "$OUT" "$OUT/charts" "$LOGDIR"
+
+# activate
+. "$VENV/bin/activate"
+export MPLBACKEND=Agg
+
+# export env via python (handles quotes safely)
+eval "$(
+python3 - <<'PY'
+import shlex
+from pathlib import Path
+from dotenv import dotenv_values
+vals = dotenv_values(Path("applypilot/.env"))
+for k in ("NOTION_TOKEN","NOTION_PAGE_ID","NOTION_DATABASE_ID"):
+    v = vals.get(k)
+    if v is not None:
+        print(f'export {k}={shlex.quote(v)}')
+PY
+)"
+
+ts="$(date '+%Y%m%d_%H%M%S')"
+LOG="$LOGDIR/daily_sync-$ts.txt"
+exec > >(tee -a "$LOG") 2>&1
+
+echo "[i] ApplyPilot daily sync started at $(date -Is)"
+
+# 1) sync DB (your existing importer)
+python3 "$ROOT/scripts/notion_sync.py"
+python3 "$ROOT/scripts/lock_db_id.py"
+python3 "$ROOT/scripts/prep_new_jobs.py"
+
+# 2) charts
+( cd "$ROOT/.." && python3 scripts/make_job_charts.py )
+python3 "$ROOT/scripts/publish_charts_to_github.py"
+python3 "$ROOT/scripts/publish_charts_to_github.py"
+
+# 3) summary page update
+python3 "$ROOT/scripts/update_notion_summary.py"
+
+echo "[done] Daily sync complete at $(date -Is)"

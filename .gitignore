@@ -1,0 +1,11 @@
+.env
+*.pyc
+__pycache__/
+.venv-applypilot/
+logs/
+outputs/*
+!outputs/charts/*
+!outputs/chart_urls.json
+# Local secrets
+.env
+*_token.sh

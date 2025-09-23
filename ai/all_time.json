@@ -1,0 +1,1158 @@
+{
+  "generated_at": "2025-09-23T21:44:19.709341+00:00",
+  "total": 112,
+  "top_all_time": {
+    "companies": [
+      [
+        "datadog",
+        39
+      ],
+      [
+        "dropbox",
+        6
+      ],
+      [
+        "mongodb",
+        6
+      ],
+      [
+        "figma",
+        6
+      ],
+      [
+        "",
+        4
+      ],
+      [
+        "mozilla",
+        3
+      ],
+      [
+        "Thesis",
+        2
+      ],
+      [
+        "gitlab",
+        2
+      ],
+      [
+        "Pavago",
+        2
+      ],
+      [
+        "cultureamp",
+        2
+      ],
+      [
+        "PEARL GmbH",
+        1
+      ],
+      [
+        "AIDA Recruitment",
+        1
+      ],
+      [
+        "Pendo",
+        1
+      ],
+      [
+        "CourtAvenue",
+        1
+      ],
+      [
+        "AuditBoard",
+        1
+      ]
+    ],
+    "locations": [
+      [
+        "Remote",
+        68
+      ],
+      [
+        "USA",
+        11
+      ],
+      [
+        "UK",
+        3
+      ],
+      [
+        "Americas, Europe",
+        2
+      ],
+      [
+        "Worldwide",
+        2
+      ],
+      [
+        "Europe",
+        2
+      ],
+      [
+        "Canada",
+        2
+      ],
+      [
+        "LATAM, Europe, Asia, Central America",
+        1
+      ],
+      [
+        "Pakistan",
+        1
+      ],
+      [
+        "Eastern Europe",
+        1
+      ],
+      [
+        "Ukraine",
+        1
+      ],
+      [
+        "Western Asia (Middle East)",
+        1
+      ],
+      [
+        "Lithuania",
+        1
+      ],
+      [
+        "APAC",
+        1
+      ],
+      [
+        "Colombia, Argentina, Mexico, Costa Rica, Jamaica",
+        1
+      ]
+    ],
+    "sources": [
+      [
+        "greenhouse",
+        64
+      ],
+      [
+        "remotive",
+        43
+      ],
+      [
+        "weworkremotely",
+        4
+      ],
+      [
+        "remoteok",
+        1
+      ]
+    ]
+  },
+  "latest_1000": [
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Structure: iOS UI/UX Designer",
+      "company": "",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/structure-ios-ui-ux-designer"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer, Teams",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7140507/?gh_jid=7140507"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Advisory Pre-Sales Solutions Architect",
+      "company": "mongodb",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7027409"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Starvox Entertainment: UX/UI Designer",
+      "company": "",
+      "location": "remote",
+      "source": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/starvox-entertainment-ux-ui-designer-remote"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UI/UX Designer",
+      "company": "PulseiD",
+      "location": "Sri Lanka",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ui-ux-designer-2024882"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Junior Graphic Designer for Packaging & Listing Images",
+      "company": "SKYVE",
+      "location": "Europe",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/junior-graphic-designer-for-packaging-listing-images-2024335"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "Skylight",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-2024334"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Web Designer / UI Expert",
+      "company": "Pragma Technologies",
+      "location": "Germany",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-web-designer-ui-expert-2023839"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UI/UX Designer",
+      "company": "Imnoo AG",
+      "location": "Switzerland",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ui-ux-designer-2027148"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UI/UX Designer",
+      "company": "Reel Unlimited",
+      "location": "Indonesia",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ui-ux-designer-2026754"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer - Analytics",
+      "company": "Constructor",
+      "location": "Spain",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-analytics-2034114"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Content Designer, Multimedia",
+      "company": "CaryHealth",
+      "location": "Argentina",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/content-designer-multimedia-2034749"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Staff Product Designer",
+      "company": "Mozilla",
+      "location": "Canada",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/staff-product-designer-2035628"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Linux Writer",
+      "company": "Valnet Tech Sites",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/writing/linux-writer-2032923"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Email & UX Designer",
+      "company": "Emails",
+      "location": "Worldwide",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/email-ux-designer-2035788"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior 3D & 2D Designer",
+      "company": "RecruitGo",
+      "location": "Philippines",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-3d-2d-designer-2035787"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer, Design Systems Features",
+      "company": "figma",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/figma/jobs/5575216004?gh_jid=5575216004"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer, Interactivity",
+      "company": "figma",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/figma/jobs/5567557004?gh_jid=5567557004"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Designer",
+      "company": "Cimpress/Vista",
+      "location": "Tunisia",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/designer-2037661"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer",
+      "company": "Waveapps",
+      "location": "Canada",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/product-designer-2042473"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "Paddle",
+      "location": "UK, Portugal, Ireland, Netherlands",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-2042950"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer, Runner Fleet",
+      "company": "gitlab",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8035591002"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "App & Web UI/UX Designer",
+      "company": "Magic Media",
+      "location": "Poland, Ukraine, Romania, Bulgaria, Serbia",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/app-web-ui-ux-designer-2042895"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "MetaLab: Senior Product Designer",
+      "company": "",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/metalab-senior-product-designer-2"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior UI/UX Designer",
+      "company": "Macellan",
+      "location": "Turkey",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-ui-ux-designer-2042891"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "CrewVision: UI/UX Product Designer",
+      "company": "",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "url": "https://weworkremotely.com/remote-jobs/crewvision-ui-ux-product-designer"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Associate Product Designer",
+      "company": "Dynatron Software",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/associate-product-designer-2044392"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Advisory Solutions Architect",
+      "company": "mongodb",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7140768"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Advisory Solutions Architect (Pre-Sales)",
+      "company": "mongodb",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7245084"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Solutions Architect",
+      "company": "mongodb",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7247354"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Enterprise Sales Engineer - Spain",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7056100/?gh_jid=7056100"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Mid-Market Sales Engineer (French Speaking)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6900231/?gh_jid=6900231"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Mid Market Sales Engineer",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/5977069/?gh_jid=5977069"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Sales Engineer (Spanish-Speaking)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7102587/?gh_jid=7102587"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Sales Engineer - Mexico City",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6526559/?gh_jid=6526559"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Sales Engineer - Denver",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6602630/?gh_jid=6602630"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Sales Engineer (Customer Success) - French-speaking",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7140223/?gh_jid=7140223"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Sales Engineer (Boston)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6713805/?gh_jid=6713805"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Solutions Architect (Serverless)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7191402/?gh_jid=7191402"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Solutions Consultant",
+      "company": "figma",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/figma/jobs/5633324004?gh_jid=5633324004"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Enterprise Sales Engineer (Bahasa Indonesia speaking)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6832925/?gh_jid=6832925"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Enterprise Sales Engineer - Mumbai",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6717522/?gh_jid=6717522"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Enterprise Sales Engineer - Sweden",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7101976/?gh_jid=7101976"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Solutions Architect - Polish Speaking",
+      "company": "mongodb",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6975253"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Sales Engineer (Customer Success) - Denver",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7215574/?gh_jid=7215574"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Mid-Market Sales Engineer (Mexico City)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7190662/?gh_jid=7190662"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Mid-Market Sales Engineer (AMER West)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7174232/?gh_jid=7174232"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Solutions Consultant (Berlin, Germany)",
+      "company": "figma",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/figma/jobs/5645228004?gh_jid=5645228004"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Public Sector Solutions Architect",
+      "company": "gitlab",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8094540002"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Sales Engineer (Thai Speaking)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7215178/?gh_jid=7215178"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Sales Engineer (Customer Success) - Boston",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7242265/?gh_jid=7242265"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Commercial Sales Engineer (German-speaking)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7091865/?gh_jid=7091865"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Enterprise Sales Engineer",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7204247/?gh_jid=7204247"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Solutions Architect 3 - APM",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6825839/?gh_jid=6825839"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Solutions Architect (Thai Speaking)",
+      "company": "mongodb",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7196053"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Graphic Designer",
+      "company": "Fin Advisors",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/graphic-designer-2044880"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer II",
+      "company": "Trueml",
+      "location": "Argentina, Mexico, Dominican Republic",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/product-designer-ii-2045475"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer & Manager",
+      "company": "Tala",
+      "location": "India",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-manager-2045325"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer, Dashboards",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7181555/?gh_jid=7181555"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Staff UX Designer, AI Investment",
+      "company": "mozilla",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/7177014"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Sr. Technical Writer / Content Designer",
+      "company": "Pendo",
+      "location": "UK",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/writing/sr-technical-writer-content-designer-2052595"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Staff Content Designer",
+      "company": "dropbox",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://jobs.dropbox.com/listing/7188524?gh_jid=7188524"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer",
+      "company": "Thesis",
+      "location": "Americas, Europe",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/product-designer-2051136"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer - Perform - Continuous Feedback ",
+      "company": "cultureamp",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7139494"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UX/UI Designer",
+      "company": "Pavago",
+      "location": "Pakistan",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ux-ui-designer-2052652"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Sales Development representative (Benelux)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7180254/?gh_jid=7180254"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UI/UX Designer",
+      "company": "AIDA Recruitment",
+      "location": "Lithuania",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ui-ux-designer-2052651"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Graphic Designer UI/UX",
+      "company": "PEARL GmbH",
+      "location": "LATAM, Europe, Asia, Central America",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/graphic-designer-ui-ux-2052646"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer - Feature Flagging",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7205028/?gh_jid=7205028"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Staff Product Designer",
+      "company": "dropbox",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://jobs.dropbox.com/listing/7128563?gh_jid=7128563"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "Samsara",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-2053473"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Designer UI",
+      "company": "CourtAvenue",
+      "location": "Remote",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-designer-ui-courtavenue-1095228"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Strategic Account Executive (Benelux)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/5581254/?gh_jid=5581254"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Enterprise Sales Engineer (Benelux)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6567764/?gh_jid=6567764"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer",
+      "company": "Corporatefinanceinstituteinc",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/product-designer-2054153"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UX Designer",
+      "company": "Infinum",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ux-designer-2054087"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer II - Database Monitoring",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7097832/?gh_jid=7097832"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer - CodeGen",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6996620/?gh_jid=6996620"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer, Cost",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7116812/?gh_jid=7116812"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer, Data Visualization",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7117237/?gh_jid=7117237"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer, Event Management",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7065095/?gh_jid=7065095"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer - Internal Tools",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6871675/?gh_jid=6871675"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer - Product Analytics",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7011810/?gh_jid=7011810"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Lead Product Designer - Coach (AI)",
+      "company": "cultureamp",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7100704"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Staff Product Designer - Infrastructure",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7168628/?gh_jid=7168628"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Graphic Designer",
+      "company": "Pavago",
+      "location": "Colombia, Argentina, Mexico, Costa Rica, Jamaica",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/graphic-designer-2045322"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UI/UX Product Designer",
+      "company": "CrewVision",
+      "location": "Eastern Europe",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ui-ux-product-designer-2037494"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer, Cross-Product Foundations",
+      "company": "figma",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/figma/jobs/5610380004?gh_jid=5610380004"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Creative Content Designer",
+      "company": "Flipster",
+      "location": "APAC",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/creative-content-designer-2046876"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer, AI",
+      "company": "figma",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/figma/jobs/5575171004?gh_jid=5575171004"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Staff Product Designer - Android Visual Design Focus ",
+      "company": "mozilla",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/7078222"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UI/UX Designer",
+      "company": "Jobs for Humanity",
+      "location": "UK",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ui-ux-designer-2046873"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "UI/UX Designer",
+      "company": "Manpower",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/ui-ux-designer-2046760"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "Lucidya",
+      "location": "Western Asia (Middle East)",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-2048564"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Growth Designer",
+      "company": "Thesis",
+      "location": "Americas, Europe",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/growth-designer-2048559"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Marketing & Product Designer",
+      "company": "Lightdash",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/marketing-product-designer-2048558"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer - Visual Design Focus",
+      "company": "mozilla",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/7166133"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Webflow Designer / Developer",
+      "company": "NineTwoThree AI Studio",
+      "location": "Ukraine",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/webflow-designer-developer-2049854"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "InvestNext",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-2049851"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Staff Product Designer - APM Enablement",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7174932/?gh_jid=7174932"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "Matic",
+      "location": "Europe",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-2051800"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Narrative Designer II - AAA Narrative/Open-World Game",
+      "company": "Pipeworks",
+      "location": "Worldwide",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/narrative-designer-ii-aaa-narrative-open-world-game-2051799"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "Wealthwizards",
+      "location": "UK",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-2051793"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "AuditBoard",
+      "location": "USA",
+      "source": "remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-product-designer-2051791"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Principal Product Designer for Growth, AI Products",
+      "company": "dropbox",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://jobs.dropbox.com/listing/6932472?gh_jid=6932472"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Principal Product Designer for Growth, AI products ",
+      "company": "dropbox",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://jobs.dropbox.com/listing/6932467?gh_jid=6932467"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Senior Product Designer",
+      "company": "dropbox",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://jobs.dropbox.com/listing/7059588?gh_jid=7059588"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Staff Design Researcher",
+      "company": "dropbox",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://jobs.dropbox.com/listing/7121516?gh_jid=7121516"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Manager, Mid-Market Sales (Benelux & Nordics)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7186071/?gh_jid=7186071"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Mid Market Account Executive (Benelux)",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6848374/?gh_jid=6848374"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Product Designer II - Bits AI",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/7182907/?gh_jid=7182907"
+    },
+    {
+      "date_collected": "2025-09-23",
+      "date_posted": "",
+      "title": "Partner Solutions Architect",
+      "company": "datadog",
+      "location": "Remote",
+      "source": "greenhouse",
+      "url": "https://careers.datadoghq.com/detail/6359712/?gh_jid=6359712"
+    }
+  ]
+}
