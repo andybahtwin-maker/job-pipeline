@@ -1,0 +1,15 @@
+.env
+logs/
+backups/
+data/*.jsonl
+__pycache__/
+*.pyc
+*.zip
+*.tgz
+*.tar.gz
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
